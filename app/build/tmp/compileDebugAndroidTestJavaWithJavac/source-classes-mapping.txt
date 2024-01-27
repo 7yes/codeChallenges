@@ -1,0 +1,2 @@
+com/yesI/codechallenges/test/BuildConfig.java
+ com.yesI.codechallenges.test.BuildConfig
